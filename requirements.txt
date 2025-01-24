@@ -1,0 +1,6 @@
+matplotlib==3.10.0
+mediapipe==0.10.20
+notebook==7.3.2
+numpy==1.26.4
+opencv-python==4.10.0.84
+ultralytics==8.3.64
