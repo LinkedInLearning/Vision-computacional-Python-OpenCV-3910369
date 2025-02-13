@@ -4,7 +4,7 @@ Este es el repositorio del curso de LinkedIn Learning `Visión computacional con
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
-DESCRIPCIÓN DEL CURSO
+Domina los fundamentos de la visión computacional con Python utilizando OpenCV, una de las librerías más populares para el procesamiento de imágenes. Aprende a aplicar filtros, detectar características clave y manipular imágenes de manera eficiente. Este curso te guía en el uso de las funciones básicas de OpenCV, desde operaciones sencillas hasta una introducción a modelos de inteligencia artificial para la detección de objetos. Ideal para desarrolladores que desean explorar el poder de la visión computacional y ampliar sus habilidades en proyectos de inteligencia artificial.
 
 ## Instrucciones
 
