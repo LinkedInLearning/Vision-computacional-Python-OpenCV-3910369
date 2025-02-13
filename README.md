@@ -7,20 +7,29 @@ Este es el repositorio del curso de LinkedIn Learning `Visión computacional con
 Domina los fundamentos de la visión computacional con Python utilizando OpenCV, una de las librerías más populares para el procesamiento de imágenes. Aprende a aplicar filtros, detectar características clave y manipular imágenes de manera eficiente. Este curso te guía en el uso de las funciones básicas de OpenCV, desde operaciones sencillas hasta una introducción a modelos de inteligencia artificial para la detección de objetos. Ideal para desarrolladores que desean explorar el poder de la visión computacional y ampliar sus habilidades en proyectos de inteligencia artificial.
 
 ## Instrucciones
+Este repositorio tiene directorios para cada uno de los capítulos del curso.
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
-
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+## Directorios
+Las directorios están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura del directorio es c# donde c corresponde a capítulo y # al número del capítulo, para los archivos la convención es c#v#, donde c corresponde a capítulo, v corresponde a video y # corresponde al número del capítulo y del video respectivamente. Por ejemplo, el directorio denominada c2_ corresponde al segundo capítulo y el archivo que se encuentra en este directorio iniciando con el nombre c2v03_ corresponde al tercer vídeo del segundo capítulo.
 
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
-
+   - Python 3.11
+   - Editor de código como VS Code o PyCharm
+   - Conda o miniconda para el manejo de ambientes virtuales
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Crea un ambiente virtual de Python, puedes hacerlo con conda usando los comandos
+
+		conda install -n <reemplazar por nombre del ambiente> python=3.11
+
+4. Instala las librerías con el comando
+
+		pip install -r requirements.txt
+
+5.  Corre cada archivo con el comando
+
+		python <nombre_archivo>
 
 ### Docente
 
