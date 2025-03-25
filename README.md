@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Visión computacional con Python y OpenCV`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Procesamiento de imagen con Python y OpenCV][lil-thumbnail-url] 
 
 Domina los fundamentos de la visión computacional con Python utilizando OpenCV, una de las librerías más populares para el procesamiento de imágenes. Aprende a aplicar filtros, detectar características clave y manipular imágenes de manera eficiente. Este curso te guía en el uso de las funciones básicas de OpenCV, desde operaciones sencillas hasta una introducción a modelos de inteligencia artificial para la detección de objetos. Ideal para desarrolladores que desean explorar el poder de la visión computacional y ampliar sus habilidades en proyectos de inteligencia artificial.
 
@@ -38,7 +38,7 @@ Las directorios están estructuradas para corresponder a los vídeos del curso. 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/procesamiento-de-imagen-con-python-y-opencv
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHp3TeOrrAbwA/learning-public-crop_675_1200/B4EZXNAYToHcAc-/0/1742901184437?e=2147483647&v=beta&t=ms4_S-54W-Fy8LYU146lsxzBd9ahJxLlCKtXH3j0oQs
 
 [1]: # (End of ES-Instruction ###############################################################################################)
