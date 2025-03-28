@@ -1,11 +1,44 @@
-Copyright 2024 LinkedIn Corporation
+Copyright 2025 LinkedIn Corporation
 All Rights Reserved.
 
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+--------------------
+**Matplotlib**
+[https://github.com/matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
+**License:** BSD 3-Clause "New" or "Revised" License
+https://opensource.org/licenses/BSD-3-Clause
+--------------------
+**MediaPipe**
+[https://github.com/google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
+**License:** Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+--------------------
+**Notebook**
+[https://github.com/jupyter/notebook](https://github.com/jupyter/notebook)
+**License:** BSD 3-Clause License
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------
+**NumPy**
+[https://github.com/numpy/numpy](https://github.com/numpy/numpy)
+**License:** BSD 3-Clause "New" or "Revised" License
+https://opensource.org/licenses/BSD-3-Clause
+--------------------
+**OpenCV-Python**
+[https://github.com/opencv/opencv-python](https://github.com/opencv/opencv-python)
+**License:** MIT License
+https://opensource.org/licenses/MIT
+--------------------
+**Ultralytics**
+[https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+**License:** AGPL-3.0 License
+https://www.gnu.org/licenses/agpl-3.0.html
+--------------------
+
+Would you like any further assistance with these dependencies or anything else?
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
